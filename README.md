@@ -1,4 +1,4 @@
-# problemasintroductorios
+# Problemas introductorios
 
 ![](https://images.cooltext.com/5140672.png)
 
